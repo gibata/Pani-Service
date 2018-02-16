@@ -1,0 +1,13 @@
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Release\PaniService.exe.config
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Release\PaniService.exe
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Release\PaniService.pdb
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Release\PaniService.Form1.resources
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Release\PaniService.Properties.Resources.resources
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Release\PaniService.csproj.GenerateResource.Cache
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Release\PaniService.exe
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Release\PaniService.pdb
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Release\PaniService.exe.manifest
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Release\PaniService.application
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Release\PaniService.TrustInfo.xml
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Release\PaniService.exe.manifest
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Release\PaniService.application

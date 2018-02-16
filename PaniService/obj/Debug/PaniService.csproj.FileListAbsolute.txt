@@ -1,0 +1,14 @@
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Debug\PaniService.exe.config
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Debug\PaniService.exe
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Debug\PaniService.pdb
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.csprojResolveAssemblyReference.cache
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.Form1.resources
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.Properties.Resources.resources
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.csproj.GenerateResource.Cache
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.exe
+c:\users\panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.pdb
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Debug\PaniService.exe.manifest
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\bin\Debug\PaniService.application
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.TrustInfo.xml
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.exe.manifest
+C:\Users\Panigale\documents\visual studio 2015\Projects\PaniService\PaniService\obj\Debug\PaniService.application
